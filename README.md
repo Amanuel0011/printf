@@ -24,12 +24,11 @@ The function has the following conversion specifies:
 + # -  modifier for unsigned conversions
 + +: prints a plus sign in front of the number
 
-
 # Installation
  you can clone this repository  and use the function on your local machine.
 
 ```bash 
-git clone https://github.com/Abinet508/printf.git
+git clone https://github.com/Amanuel0011/printf.git
 ```
 
 # Usage
@@ -58,7 +57,7 @@ int main(void)
 ```
 
 # Copyright
-Copyright (c) 2021 Abinet Tesfu Bezawit Girma
+Copyright (c) 2022 Amanuel0011 and NatnaelDemelash
 
 
 
